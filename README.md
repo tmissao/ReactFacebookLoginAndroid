@@ -30,3 +30,5 @@ import FacebookLogin from 'react-native-library-facebook-login' // Importação 
 
 ## Demo
 Dentro deste repositório na pasta demo existe a pasta *DemoReactFacebookLogin* contendo uma aplicação React Native demonstrando a utilização da biblioteca.
+
+<a href="https://imgflip.com/gif/1wlfd1"><img src="https://i.imgflip.com/1wlfd1.gif" title="made at imgflip.com"/></a>
