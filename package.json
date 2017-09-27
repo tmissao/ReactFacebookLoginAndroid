@@ -1,0 +1,19 @@
+{
+  "name": "react-native-library-facebook-login",
+  "version": "0.0.1",
+  "author": "Missão",
+  "private": false,
+  "license": "Unlicense",
+  "keywords": [
+    "react-native",
+    "android",
+    "library"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"  
+  },
+  "dependencies": {
+    "react-native": "0.48.4"
+  }
+}
